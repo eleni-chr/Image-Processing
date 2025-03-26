@@ -21,4 +21,4 @@ This function takes an original image input, and produces a processed image. Bot
 
 ## Example input and output
 
-![example image](https://github.com/eleni-chr/Image-Processing/blob/main/example.png)
+![example image](https://github.com/eleni-chr/Image-Processing/master/example.png)
